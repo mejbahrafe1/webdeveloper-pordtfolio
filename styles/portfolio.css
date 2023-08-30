@@ -197,6 +197,7 @@ main {
 .resume-container {
     margin-top: 110px;
     display: flex;
+    gap: 50px;
 }
 
 .resume-title {
@@ -228,4 +229,8 @@ main {
     line-height: 28px;
     margin-top: 55px;
     margin-bottom: 30px;
+}
+.doenload-cv{
+    margin: 50px 0 110px 0;
+   text-align: center;
 }
